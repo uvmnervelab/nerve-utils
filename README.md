@@ -11,15 +11,16 @@ Data Management: https://ajbarrows.github.io/nerve-data/
 | ----- | -------- | -------- |
 | 1     | DK       | 10/28/26 |
 | 2     | Tony     |          |
-| 3     | Michèle  |          |
-| 4     | Bader    |          |
-| 5     | Alexi    |          |
-| 6     | Shannon  |          |
-| 7     | Nick     |          |
-| 8     | Annabel  |          |
-| 9     | Hugh     |          |
-| 10    | Matt     |          |
-| 11    | Hannah   |          |
-| 12    | McKinney |          |
+| 3     | Anthony  |          |
+| 4     | Michèle  |          |
+| 5     | Bader    |          |
+| 6     | Alexi    |          |
+| 7     | Shannon  |          |
+| 8     | Nick     |          |
+| 9     | Annabel  |          |
+| 10    | Hugh     |          |
+| 11    | Matt     |          |
+| 12    | Hannah   |          |
+| 13    | McKinney |          |
 
 *Dates are subject to change. 
